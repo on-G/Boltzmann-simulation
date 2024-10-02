@@ -15,6 +15,7 @@ class boltzmann{
 
 public:
     boltzmann();
+    int random();
 };
 
 #endif //BOLTZMANN_SIMULATION_BOLTZMANN_HPP
